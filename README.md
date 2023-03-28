@@ -112,39 +112,39 @@ cv2.destroyAllWindows()
 
 ## Output:
 ### i) BGR and RGB to HSV and GRAY
-![output](ss1.png)
+![op1](https://user-images.githubusercontent.com/93860256/228265579-5ef49212-54f0-4229-a64a-6a69927778b2.png)
 
-![output](ss2.png)
+![op6](https://user-images.githubusercontent.com/93860256/228265765-fe814283-c550-4246-9a72-ddeeddb4d251.png)
 
-![output](ss3.png)
+![op20](https://user-images.githubusercontent.com/93860256/228275970-f0dc5744-1da9-483a-b4f0-8e51c58b15a8.PNG)
 ### ii) HSV to RGB and BGR
-![output](ss4.png)
+![op6](https://user-images.githubusercontent.com/93860256/228276202-e13fcec4-4f57-4d6b-931c-a35c842a9de8.png)
 
-![output](ss5.png)
+![op7](https://user-images.githubusercontent.com/93860256/228276364-a42b02aa-5e0c-4a8c-88b2-de59107fe136.png)
 
-![output](ss6.png)
+![op8](https://user-images.githubusercontent.com/93860256/228276549-3cb3a082-d640-49c9-8d3e-4689163e70d3.png)
 
 ### iii) RGB and BGR to YCrCb
-![output](ss7.png)
+![op10](https://user-images.githubusercontent.com/93860256/228276688-60cf5c76-5997-4822-b992-6fa9075d223e.png)
 
-![output](ss8.png)
+![op11](https://user-images.githubusercontent.com/93860256/228276792-56583c28-b7ef-41fe-b9ed-d1c794d65746.png)
 ### iv) Split and merge RGB Image
-![output](ss9.png)
+![op12](https://user-images.githubusercontent.com/93860256/228277015-1590c96e-7752-4b74-8d5b-ddf3ec3a3b39.png)
 
-![output](ss10.png)
+![op13](https://user-images.githubusercontent.com/93860256/228277007-f6677a7b-5432-4795-8dab-1b9f7db00ecf.png)
 
-![output](ss11.png)
+![op14](https://user-images.githubusercontent.com/93860256/228277022-5249f735-c9a3-460a-a998-fccd22f24f41.png)
 
-![output](ss12.png)
+![op15](https://user-images.githubusercontent.com/93860256/228277271-0092cf29-16fd-4c5b-b62e-e7297a496623.png)
 
 ### v) Split and merge HSV Image
-![output](ss13.png)
+![op16](https://user-images.githubusercontent.com/93860256/228277494-eb2abaa1-bd85-46ed-b349-ea395e8cdb63.png)
 
-![output](ss14.png)
+![op17](https://user-images.githubusercontent.com/93860256/228277482-e5f54ada-5319-476d-ad5d-ed5f31b37160.png)
 
-![output](ss15.png)
+![op18](https://user-images.githubusercontent.com/93860256/228277505-e963e65b-358b-49ee-b1e2-d5ee32996f2d.png)
 
-![output](ss16.png)
+![op19](https://user-images.githubusercontent.com/93860256/228277501-27575867-d4bb-4816-b743-730284e7164f.png)
 
 
 ## Result:
